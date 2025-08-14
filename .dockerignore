@@ -1,0 +1,28 @@
+# Folder build
+bin/
+obj/
+
+# Folder publish lokal
+app/publish/
+
+# Git files
+.git
+.gitignore
+
+# Editor & IDE
+.vscode/
+.idea/
+*.suo
+*.user
+*.userossc
+*.sln.docstates
+
+# File sistem operasi
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Lain-lain
+*.md
+Dockerfile
+docker-compose*
